@@ -1,0 +1,4 @@
+REM Mac OS X
+REM With the Rectangle app
+REM Using the default keybindings
+CTRL ALT F

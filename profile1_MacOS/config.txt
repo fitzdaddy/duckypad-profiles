@@ -1,0 +1,25 @@
+z1 vol-
+z2 mute
+z3 vol+
+z4 <<
+z5 ||
+z6 >>
+z7 prefs
+z8 focus
+z9 scrShot
+z10 iCloud
+z11 Quit
+z12 lock
+z13 Find
+z14 finder
+z15 QS
+BG_COLOR 40 17 255
+SWCOLOR_1 160 0 255
+SWCOLOR_2 160 0 255
+SWCOLOR_3 160 0 255
+SWCOLOR_4 160 0 255
+SWCOLOR_5 160 0 255
+SWCOLOR_6 160 0 255
+SWCOLOR_11 255 38 0
+SWCOLOR_13 0 207 0
+SWCOLOR_15 0 252 255
